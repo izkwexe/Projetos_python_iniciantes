@@ -21,4 +21,4 @@ Abaixo estão os projetos incluídos no repositório:
 - **Projeto Validador de Senha**
 
 ## Créditos
-**Isaque** - [Perfil de Isaque](https://www.instagram.com/isaque.bm)
+**Isaque** - [Acessar Instagram](https://www.instagram.com/isaque.bm)
