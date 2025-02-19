@@ -20,4 +20,5 @@ Abaixo estão os projetos incluídos no repositório:
 - **Projeto Restaurante**
 - **Projeto Validador de Senha**
 
-## Como Usar
+## Créditos
+**Isaque** - [Perfil de Isaque](https://www.instagram.com/isaque.bm)
